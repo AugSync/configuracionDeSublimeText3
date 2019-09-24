@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"AutoFileName",
+		"Babel",
+		"Emmet",
+		"ESLint-Formatter",
+		"FileIcons",
+		"JSX",
+		"Package Control",
+		"SCSS",
+		"SublimeCodeIntel"
+	]
+}
