@@ -1,4 +1,4 @@
-# congiguracionDeSublimeText3
+# configuracionDeSublimeText3
 
 El archivo importante está en la ruta siguiente: C:\Users\TUUSUARIO\AppData\Roaming\Sublime Text 3\Packages\User.
 Se puede acceder allí usando CMD con `cd AppData\Roaming\Sublime Text 3\Packages\User && explorer.exe .`.
